@@ -1,7 +1,10 @@
 Class HelloGit {
     public static void main (String[] Args) {
         String git = "GIT";
+        String message = "Segunda linea en sol";
         System.out.print("Hi " + git);
+        System.out.println(" ->  Primer linea en master");
+        System.out.println(message);
     }
 
 }
